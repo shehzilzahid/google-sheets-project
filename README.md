@@ -1,1 +1,1 @@
-# google-sheets-project-pitch
+# Google Sheets Project Pitch
